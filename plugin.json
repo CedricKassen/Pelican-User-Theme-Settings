@@ -1,0 +1,16 @@
+{
+    "id": "user-themes",
+    "name": "User Themes",
+    "author": "Cedric Kassen",
+    "version": "1.0.0",
+    "description": "Lets every user pick their own panel theme in the profile customization settings",
+    "category": "plugin",
+    "url": null,
+    "update_url": null,
+    "namespace": "CedricKassen\\UserThemes",
+    "class": "UserThemesPlugin",
+    "panels": null,
+    "panel_version": null,
+    "api_version": 1,
+    "composer_packages": null
+}
